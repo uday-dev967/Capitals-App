@@ -1,0 +1,33 @@
+.main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  font-family: Roboto;
+  color: #323f4b;
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.select {
+  width: 200px;
+  border-color: #cbd2d9;
+  color: #000000;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.question-container {
+  display: flex;
+}
+.para {
+  padding-left: 5px;
+  font-weight: 600;
+}
